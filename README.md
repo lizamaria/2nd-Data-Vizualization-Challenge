@@ -16,11 +16,12 @@
 ####  Who.
 
 Maja Minnaert
+
 Liza María C
 
 ## Pending things to do
 
--[x] Make repository
--[x] Select dataset
--[ ] Upload csv file to repository
--[ ] Explore Data
+- [x] Make repository
+- [x] Select dataset
+- [ ] Upload csv file to repository
+- [ ] Explore Data
