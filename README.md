@@ -23,5 +23,7 @@ Liza María C
 
 - [x] Make repository
 - [x] Select dataset
-- [ ] Upload csv file to repository
-- [ ] Explore Data
+- [x] Explore Data
+- [x] Make plots
+
+
